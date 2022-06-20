@@ -1,0 +1,106 @@
+body {
+    font-family: 'Helvetica' !important;
+}
+
+.title, .dropdown-title {
+    font-family: 'Helvetica';
+}
+
+.title {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.dropdown-title {
+    margin-left: 2.5%;
+    margin-top: 8px;
+    margin-bottom: 1px;
+}
+
+.dropdown-title-child {
+    margin-top: 8px;
+    margin-bottom: 1px;
+}
+
+.input, #heatmap-datatable, #line-graph {
+    margin-left: 2.5%;
+    width: 95%;
+}
+
+.input-compact {
+    margin-left: 2.5%;
+    width: 46.25%;
+    /*height:4em;*/
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.file-modified-date {
+    font-weight: 200;
+    text-align: center;
+    color: #484848;
+    /* min-height:2em; */
+    padding-top: .36em;
+    padding-bottom: .65em;
+    font-size: 1.3em;
+    border-radius: 2px;
+    border: 1px solid rgb(207, 207, 207);
+}
+
+#heatmap-datatable {
+    margin-bottom: 80px;
+}
+
+#line-graph {
+    margin-top: 25px;
+}
+
+#heatmap1-date-picker {
+    /* min-height:39px; */
+}
+
+.date-range-child {
+    width: 100%;
+}
+
+.DateRangePicker_1, .DateRangePickerInput_1 {
+    width: 100%;
+}
+
+.DateInput_1 {
+    width: 44%;
+    /* margin-left:2%; */
+    /* font-family: 'Helvetica'!important; */
+}
+
+.DayPickerKeyboardShortcuts_show__bottomRight {
+    bottom: 0;
+    right: 0;
+    display: none;
+}
+
+.DateInput_input, .DateInput_input_1 {
+    font-family: 'Helvetica' !important;
+    font-size: 1rem;
+}
+
+.input-compact-skip-left{
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    width: 46.25%;
+    /*height:4em;*/
+    display: inline-block;
+    float: right;
+
+}
+
+{   color: #ff6a6a;
+    color: #ee7d6b;
+    color: #ea946b;
+    color: #e7b96b;
+    color: #e2e66b;
+    color: #c1ff6b;
+    color: #b1fa94;
+    color: #8efb86;
+    color: #4be658;
+    color: #38cf6b;}
